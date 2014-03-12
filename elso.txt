@@ -1,3 +1,4 @@
 elso fajl
 masodik sor elso fajl
-harmadik sor - eredeti
+harmadik sor eredeti && harmadik sor temp
+
